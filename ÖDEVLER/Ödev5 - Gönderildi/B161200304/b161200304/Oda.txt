@@ -1,0 +1,27 @@
+Oda_Numarası: 2
+Oda_Ücreti: 20
+
+Oda_Numarası: 3
+Oda_Ücreti: 30
+
+Oda_Numarası: 4
+Oda_Ücreti: 40
+
+Oda_Numarası: 5
+Oda_Ücreti: 50
+
+Oda_Numarası: 6
+Oda_Ücreti: 60
+
+Oda_Numarası: 7
+Oda_Ücreti: 70
+
+Oda_Numarası: 8
+Oda_Ücreti: 80
+
+Oda_Numarası: 9
+Oda_Ücreti: 90
+
+Oda_Numarası: 10
+Oda_Ücreti: 100
+

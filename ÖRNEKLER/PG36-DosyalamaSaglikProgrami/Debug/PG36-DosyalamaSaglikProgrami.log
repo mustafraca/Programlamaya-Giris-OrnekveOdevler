@@ -1,0 +1,4 @@
+﻿  Dosyalama.cpp
+c:\users\acar\desktop\pg36-dosyalamasaglikprogrami\kisi.h(31): warning C4244: 'return': '__int64' - 'long' dönüşümü; veri kaybı olabilir
+c:\users\acar\desktop\pg36-dosyalamasaglikprogrami\kisi.h(32): warning C4244: 'return': '__int64' - 'long' dönüşümü; veri kaybı olabilir
+  PG36-DosyalamaSaglikProgrami.vcxproj -> C:\Users\ACAR\Desktop\PG36-DosyalamaSaglikProgrami\Debug\PG36-DosyalamaSaglikProgrami.exe

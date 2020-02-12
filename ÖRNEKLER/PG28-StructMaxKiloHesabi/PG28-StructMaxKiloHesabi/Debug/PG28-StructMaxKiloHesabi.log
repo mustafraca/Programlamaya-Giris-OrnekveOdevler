@@ -1,0 +1,5 @@
+﻿  PG28-StructMaxKiloHesabi.cpp
+c:\users\acar\desktop\saü\1.sinif\pg\pg-çalışmalar\pg28-structmaxkilohesabi\pg28-structmaxkilohesabi\pg28-structmaxkilohesabi.cpp(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\acar\desktop\saü\1.sinif\pg\pg-çalışmalar\pg28-structmaxkilohesabi\pg28-structmaxkilohesabi\pg28-structmaxkilohesabi.cpp(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PG28-StructMaxKiloHesabi.vcxproj -> C:\Users\ACAR\Desktop\SAÜ\1.SINIF\PG\PG-Çalışmalar\PG28-StructMaxKiloHesabi\Debug\PG28-StructMaxKiloHesabi.exe
+  PG28-StructMaxKiloHesabi.vcxproj -> C:\Users\ACAR\Desktop\SAÜ\1.SINIF\PG\PG-Çalışmalar\PG28-StructMaxKiloHesabi\Debug\PG28-StructMaxKiloHesabi.pdb (Full PDB)

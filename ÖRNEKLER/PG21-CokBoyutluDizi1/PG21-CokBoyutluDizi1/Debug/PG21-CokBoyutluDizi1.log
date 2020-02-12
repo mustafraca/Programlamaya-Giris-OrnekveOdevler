@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  PG21-CokBoyutluDizi1.cpp
+c:\users\acar\desktop\saü\pg\pg-çalışmalar\pg21-cokboyutludizi1\pg21-cokboyutludizi1\pg21-cokboyutludizi1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PG21-CokBoyutluDizi1.vcxproj -> C:\Users\ACAR\Desktop\SAÜ\PG\PG-Çalışmalar\PG21-CokBoyutluDizi1\Debug\PG21-CokBoyutluDizi1.exe
+  PG21-CokBoyutluDizi1.vcxproj -> C:\Users\ACAR\Desktop\SAÜ\PG\PG-Çalışmalar\PG21-CokBoyutluDizi1\Debug\PG21-CokBoyutluDizi1.pdb (Full PDB)

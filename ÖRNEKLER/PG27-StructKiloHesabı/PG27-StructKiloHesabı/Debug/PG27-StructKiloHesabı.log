@@ -1,0 +1,5 @@
+﻿  PG27-StructKiloHesabı.cpp
+c:\users\acar\desktop\saü\1.sinif\pg\pg-çalışmalar\pg27-structkilohesabı\pg27-structkilohesabı\pg27-structkilohesabı.cpp(37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\acar\desktop\saü\1.sinif\pg\pg-çalışmalar\pg27-structkilohesabı\pg27-structkilohesabı\pg27-structkilohesabı.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PG27-StructKiloHesabı.vcxproj -> C:\Users\ACAR\Desktop\SAÜ\1.SINIF\PG\PG-Çalışmalar\PG27-StructKiloHesabı\Debug\PG27-StructKiloHesabı.exe
+  PG27-StructKiloHesabı.vcxproj -> C:\Users\ACAR\Desktop\SAÜ\1.SINIF\PG\PG-Çalışmalar\PG27-StructKiloHesabı\Debug\PG27-StructKiloHesabı.pdb (Full PDB)

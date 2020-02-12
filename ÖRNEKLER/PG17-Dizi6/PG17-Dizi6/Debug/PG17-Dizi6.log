@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  PG17-Dizi6.cpp
+c:\users\acar\desktop\saü\pg\pg-çalışmalar\pg17-dizi6\pg17-dizi6\pg17-dizi6.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PG17-Dizi6.vcxproj -> C:\Users\ACAR\Desktop\SAÜ\PG\PG-Çalışmalar\PG17-Dizi6\Debug\PG17-Dizi6.exe
+  PG17-Dizi6.vcxproj -> C:\Users\ACAR\Desktop\SAÜ\PG\PG-Çalışmalar\PG17-Dizi6\Debug\PG17-Dizi6.pdb (Full PDB)

@@ -1,0 +1,45 @@
+Müþteri_Numarasý: 2a
+Müþteri_Adý: Ali
+Müþteri_Soyadý: Mirza
+Müþteri_TC_Numarasý: 33130948032
+
+Müþteri_Numarasý: 3a
+Müþteri_Adý: Talha
+Müþteri_Soyadý: Cerci
+Müþteri_TC_Numarasý: 33130948033
+
+Müþteri_Numarasý: 4a
+Müþteri_Adý: Omer
+Müþteri_Soyadý: Yetim
+Müþteri_TC_Numarasý: 33130948034
+
+Müþteri_Numarasý: 5a
+Müþteri_Adý: ASD
+Müþteri_Soyadý: DSA
+Müþteri_TC_Numarasý: 33130948035
+
+Müþteri_Numarasý: 6a
+Müþteri_Adý: QWE
+Müþteri_Soyadý: EWQ
+Müþteri_TC_Numarasý: 33130948036
+
+Müþteri_Numarasý: 7a
+Müþteri_Adý: KLM
+Müþteri_Soyadý: MLK
+Müþteri_TC_Numarasý: 33130948037
+
+Müþteri_Numarasý: 8a
+Müþteri_Adý: ZXC
+Müþteri_Soyadý: CXZZ
+Müþteri_TC_Numarasý: 33130948038
+
+Müþteri_Numarasý: 9a
+Müþteri_Adý: VBN
+Müþteri_Soyadý: NBV
+Müþteri_TC_Numarasý: 33130948039
+
+Müþteri_Numarasý: 10a
+Müþteri_Adý: JHN
+Müþteri_Soyadý: NHJ
+Müþteri_TC_Numarasý: 33130948040
+
